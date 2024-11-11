@@ -1,5 +1,4 @@
 #for streamlit cloud
-python_version=="3.12"
 pandasai
 streamlit
 pyyaml
