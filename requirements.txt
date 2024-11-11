@@ -1,5 +1,5 @@
 #for streamlit cloud
-pandasai
+pandasai[numpy]
 streamlit
 pyyaml
 scikit-learn
